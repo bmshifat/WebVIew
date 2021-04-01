@@ -17,7 +17,7 @@ First, you need to change the name attribute of the <b>package.json</b> file in
 </div>
 Next, modify <strong>config.js</strong> file appName value.
 <div class="code__block code__block--notabs">
-<pre class="code code--block"><code class="hljs bash"><span class="hljs-string">'appName'</span> : <span class="hljs-string">'WebToDesk'</span>,
+<pre class="code code--block"><code class="hljs bash"><span class="hljs-string">'appName'</span> : <span class="hljs-string">'Name'</span>,
 </code></pre>
 </div>
 </section><section class="js-section">
