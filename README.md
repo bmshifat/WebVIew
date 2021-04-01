@@ -73,7 +73,7 @@ There are two menu types
 <ul>
  	<li>Main application menu – menu-config.js</li>
 </ul>
-<img src="https://raw.githubusercontent.com/bmshifat/WebVIew/main/menu.png" />
+<img src="https://raw.githubusercontent.com/bmshifat/WebViewDesk/main/menu.png" />
 <h4>Link-local pages to menu</h4>
 First, create a .html page in your app's public folder. By using the following format, replace the values of your newly created HTML page file name value.
 <div class="code__block code__block--notabs">
@@ -115,7 +115,7 @@ Next, you can add your class or id value separated by a comma.
 <span class="hljs-string">'hideElementsClass'</span> : [<span class="hljs-string">'class_1'</span>, <span class="hljs-string">'class_2'</span>, <span class="hljs-string">'class_3'</span>],
 </code></pre>
 </div>
-<img class="" src="https://raw.githubusercontent.com/bmshifat/WebVIew/main/hide.png" />
+<img class="" src="https://raw.githubusercontent.com/bmshifat/WebViewDesk/main/hide.png" />
 
 </section><section class="js-section">
 <h3 class="section__title">Application Run Locally</h3>
