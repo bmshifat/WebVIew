@@ -69,9 +69,9 @@ There are two menu types
 <ul>
  	<li>Main application menu – menu-config.js</li>
 </ul>
-<img class="" src="https://raw.githubusercontent.com/bmshifat/WebVIew/main/menu.png" />
+<img src="https://raw.githubusercontent.com/bmshifat/WebVIew/main/menu.png" />
 
-<img src="images/menu.png" />
+
 <h4>Link-local pages to menu</h4>
 First, create a .html page in your app's public folder. By using the following format, replace the values of your newly created HTML page file name value.
 <div class="code__block code__block--notabs">
