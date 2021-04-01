@@ -69,6 +69,8 @@ There are two menu types
 <ul>
  	<li>Main application menu – menu-config.js</li>
 </ul>
+<img class="" src="https://raw.githubusercontent.com/bmshifat/WebVIew/main/menu.png" />
+
 <img src="images/menu.png" />
 <h4>Link-local pages to menu</h4>
 First, create a .html page in your app's public folder. By using the following format, replace the values of your newly created HTML page file name value.
@@ -111,13 +113,15 @@ Next, you can add your class or id value separated by a comma.
 <span class="hljs-string">'hideElementsClass'</span> : [<span class="hljs-string">'class_1'</span>, <span class="hljs-string">'class_2'</span>, <span class="hljs-string">'class_3'</span>],
 </code></pre>
 </div>
-<img src="images/hide.png" /></section><section class="js-section">
+<img class="" src="https://raw.githubusercontent.com/bmshifat/WebVIew/main/hide.png" />
+
+</section><section class="js-section">
 <h3 class="section__title">Application Run Locally</h3>
 In your project folder simply open <b>terminal/command</b> line tools and install all dependencies.
 
 <b><span style="color: blue;">First, you need to install your computer <a href="https://nodejs.org/en/" target="_blank" rel="noopener"><span style="color: red;">Node.js</span></a> latest version</span></b>
 
-Run the following command.&nbsp;
+Run the following command.
 <div class="code__block code__block--notabs">
 <pre class="code code--block"><code class="hljs coffeescript">$ <span class="hljs-built_in">npm</span> install
 </code></pre>
