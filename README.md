@@ -15,7 +15,7 @@ First, you need to change the name attribute of the <b>package.json</b> file in
 <pre class="code code--block"><code class="hljs bash"><span class="hljs-string">"name"</span>: <span class="hljs-string">"New_App_Name"</span>,
 </code></pre>
 </div>
-Next, modify <strong>config.js</strong> file appName value.
+Next, modify the <strong>config.js</strong> file appName value.
 <div class="code__block code__block--notabs">
 <pre class="code code--block"><code class="hljs bash"><span class="hljs-string">'appName'</span> : <span class="hljs-string">'Name'</span>,
 </code></pre>
@@ -70,8 +70,6 @@ There are two menu types
  	<li>Main application menu – menu-config.js</li>
 </ul>
 <img src="https://raw.githubusercontent.com/bmshifat/WebVIew/main/menu.png" />
-
-
 <h4>Link-local pages to menu</h4>
 First, create a .html page in your app's public folder. By using the following format, replace the values of your newly created HTML page file name value.
 <div class="code__block code__block--notabs">
@@ -133,7 +131,7 @@ After successfully installed all the dependencies, run the following command.
 </div>
 </section><section class="js-section">
 <h3 class="section__title">Build the Application for platforms</h3>
-</section><section class="js-section">Now you can use this customized application to build applications macOS, Windows and Linux platforms.
+</section><section class="js-section">Now you can use this customized application to build applications macOS, Windows, and Linux platforms.
 <div>
 <pre class="code code--block"><code class="hljs coffeescript"><span style="color: red;"><b>Important</b>
 macOS User – Can build macOS, Windows <span class="hljs-keyword">and</span> Linux version <span class="hljs-keyword">of</span> your application
