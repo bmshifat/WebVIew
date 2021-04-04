@@ -16,7 +16,6 @@
            
             {label : 'V1.0.0', click : () => { require('./main')("about") }},
             {label : 'Developer', click : () => { require('./main')("dev") }},
-
         ]
     },
 
@@ -25,12 +24,10 @@
         submenu: [
            
                 {role : 'reload'},
-				{role : 'cut'},
-				{role : 'copy'},
-				{role : 'paste'},
-				{role : 'redo'},
-
-
+		{role : 'cut'},
+		{role : 'copy'},
+		{role : 'paste'},
+		{role : 'redo'},
         ]
     },
 
