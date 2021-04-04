@@ -1,7 +1,7 @@
 {
   "name": "Web",
   "version": "1.0.0",
-  "description": "Convert Website to Desktop application",
+  "description": "By WebViewDesk anyone can make WebView software for MACOS Windows & Linux",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
